@@ -1,0 +1,73 @@
+# app-ads.txt for Xinerxin Trading Co., Ltd.
+# Mobile App Advertising Verification File
+# https://xinerxinco.com/app-ads.txt
+# Last updated: December 15, 2024
+
+# This file is used by advertising networks to verify publisher identity for mobile app advertising.
+# Include the app-ads.txt file in the root directory of your website.
+# Then add your app IDs to each advertising network's developer console.
+
+# ========================================
+# Google AdMob / Google Ad Manager
+# ========================================
+# Add your Google Publisher ID here
+# Example: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, gaaXXXXXXXXXXXXXXX
+
+# ========================================
+# Facebook Audience Network
+# ========================================
+# Add your Facebook App ID here
+# Example: facebook.com, app, XXXXXXXXXXXXXXXX, DISABLED, XXXXXXXXXXXXXXXX
+
+# ========================================
+# Unity Ads
+# ========================================
+# Add your Unity Ads Game ID here
+# Example: unity3d.com, app, XXXXXXXX, DIRECT
+
+# ========================================
+# AppLovin
+# ========================================
+# Add your AppLovin SDK Key here
+# Example: applovin.com, sdk_key, XXXXXXXXXXXXXXXXXXXXXXXXX
+
+# ========================================
+# ironSource
+# ========================================
+# Add your ironSource App Key here
+# Example: ironsrc.com, app, XXXXXXXX
+
+# ========================================
+# Mintegral
+# ========================================
+# Add your Mintegral App Key here
+# Example: mintegral.com, app, XXXXXXXX
+
+# ========================================
+# ByteDance / Pangle (TikTok Ads)
+# ========================================
+# Add your Pangle App ID here
+# Example: bytedance.com, app, XXXXXXXX
+
+# ========================================
+# Tencent Ads / 优量汇
+# ========================================
+# Add your Tencent Ads App ID here
+# Example: tencent.com, app, XXXXXXXX
+
+# ========================================
+# 穿山甲 (Pangolin)
+# ========================================
+# Add your Pangolin App ID here
+# Example: pangolin.com, app, XXXXXXXX
+
+# ========================================
+# Instructions for Use
+# ========================================
+# 1. Create accounts with each advertising network
+# 2. Add your mobile apps to each network's developer console
+# 3. Get your unique publisher/app IDs from each network
+# 4. Add those IDs above in the correct format
+# 5. Upload this updated file to your website root directory
+# 6. Wait 24-48 hours for verification
+# 7. Confirm verification in each advertising network's console
